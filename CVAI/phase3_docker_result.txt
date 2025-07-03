@@ -1,0 +1,1 @@
+[오류] Docker 자동 검증 중 예외 발생: COPY failed: file not found in build context or excluded by .dockerignore: stat victim.py: file does not exist
